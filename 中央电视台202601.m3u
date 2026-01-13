@@ -13,3 +13,21 @@ http://120.76.248.139/live/bfgd/4200000282.m3u8
 http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 ,重庆汽摩
 http://120.76.248.139/live/bfgd/4200000168.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 ,緯來體育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 ,緯來體育HD
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 ,緯來育樂
+rtmp://f13h.mine.nu:1935/sat/tv701
+#EXTINF:-1 ,緯來育樂HD
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 ,ELEVEN體育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 ,ELEVEN體育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 ,MoMoTV4K
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 ,Mo綜合
+rtmp://f13h.mine.nu:1935/sat/tv761

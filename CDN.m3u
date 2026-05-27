@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,东森新闻 (全球CDN)
+https://ebcnews-tw.k05.clearleap.com/live/disk1/ebcnews/hls-audio_1=64000-video=1200000.m3u8
+#EXTINF:-1,中天新闻 (海外直连)
+https://ctitv-tw.k05.clearleap.com/live/disk1/ctitv/hls-audio_1=64000-video=1200000.m3u8
+#EXTINF:-1,TVBS 新闻台
+https://tvbs-hls.cdn.hinet.net/live/pool/tvbs/index.m3u8
+
+#EXTINF:-1,大爱电视 (台湾)
+https://daaitv-hls.cdn.hinet.net/live/pool/daaitv/index.m3u8
+#EXTINF:-1,公视主频 (台湾公共电视)
+https://pts-hls.cdn.hinet.net/live/pool/pts/index.m3u8
+
+#EXTINF:-1,CCTV-4 中文国际 (美洲版专线)
+http://112.50.243.10:1935/live/cctv4_america.m3u8
+#EXTINF:-1,CGTN Document 纪录片 (英文/中字 全球加速)
+https://cgtn-doc.akamaized.net/hls/live/2004246/doc/el.m3u8
+
+#EXTINF:-1,TVBS 新闻 (YouTube转流)
+https://youtube-m3u8.com/live/A4FbB8Th77Y.m3u8
+#EXTINF:-1,东森新闻 (YouTube转流)
+https://youtube-m3u8.com/live/RaIJ767Bj_M.m3u8
+#EXTINF:-1,三立新闻 (YouTube转流)
+https://youtube-m3u8.com/live/4ZVUmEUsqfI.m3u8

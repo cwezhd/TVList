@@ -1,25 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1,东森新闻 (全球CDN)
-https://ebcnews-tw.k05.clearleap.com/live/disk1/ebcnews/hls-audio_1=64000-video=1200000.m3u8
-#EXTINF:-1,中天新闻 (海外直连)
-https://ctitv-tw.k05.clearleap.com/live/disk1/ctitv/hls-audio_1=64000-video=1200000.m3u8
-#EXTINF:-1,TVBS 新闻台
-https://tvbs-hls.cdn.hinet.net/live/pool/tvbs/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#.m3u8
+#EXTINF:-1 ,凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#.m3u8
+#EXTINF:-1 ,凤凰中文2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2#.m3u8
+#EXTINF:-1 ,凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#.m3u8
+#EXTINF:-1 ,凤凰香港2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2#.m3u8
 
-#EXTINF:-1,大爱电视 (台湾)
-https://daaitv-hls.cdn.hinet.net/live/pool/daaitv/index.m3u8
-#EXTINF:-1,公视主频 (台湾公共电视)
-https://pts-hls.cdn.hinet.net/live/pool/pts/index.m3u8
+#EXTINF:-1 ,tvod翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct#.m3u8
+#EXTINF:-1 ,tvod翡翠台2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2#.m3u8
+#EXTINF:-1 ,黄金翡翠 TVOD
+http://php.jdshipin:8880/TVOD/iptv.php?id=fct3#.m3u8
+#EXTINF:-1 ,翡翠台4K TVOD
+http://php.jdshipin:8880/TVOD/iptv.php?id=fct4#.m3u8
+#EXTINF:-1 ,tvod翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1#.m3u8
 
-#EXTINF:-1,CCTV-4 中文国际 (美洲版专线)
-http://112.50.243.10:1935/live/cctv4_america.m3u8
-#EXTINF:-1,CGTN Document 纪录片 (英文/中字 全球加速)
-https://cgtn-doc.akamaized.net/hls/live/2004246/doc/el.m3u8
+#EXTINF:-1 ,TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=j2#.m3u8
+#EXTINF:-1 ,tvodTVB Plus2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp#.m3u8
+#EXTINF:-1 ,无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#.m3u8
+#EXTINF:-1 ,星河 TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#.m3u8
+#EXTINF:-1 ,美亚电影粤TVOD
+http://php.jdshipin:8880/TVOD/iptv.php?id=meiya#.m3u8
 
-#EXTINF:-1,TVBS 新闻 (YouTube转流)
-https://youtube-m3u8.com/live/A4FbB8Th77Y.m3u8
-#EXTINF:-1,东森新闻 (YouTube转流)
-https://youtube-m3u8.com/live/RaIJ767Bj_M.m3u8
-#EXTINF:-1,三立新闻 (YouTube转流)
-https://youtube-m3u8.com/live/4ZVUmEUsqfI.m3u8
+#EXTINF:-1 ,tvodVIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv#.m3u8
+#EXTINF:-1 ,tvodVIUTV2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2#.m3u8
+#EXTINF:-1 ,tvodHOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv#.m3u8
+#EXTINF:-1 ,HOY TV 2
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#.m3u8
+
+#EXTINF:-1 ,广东珠江TVOD
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj#.m3u8
+#EXTINF:-1 ,广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty#.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://php.jdshipin:8880/TVOD/iptv.php?id=chcdzdy#.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://php.jdshipin:8880/TVOD/iptv.php?id=chcjtyy#.m3u8
+#EXTINF:-1 ,重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd#.m3u8
+
+#EXTINF:-1 ,江西卫视
+http://php.jdshipin:8880/TVOD/iptv.php?id=jxds#.m3u8
+#EXTINF:-1 ,江西新闻
+http://php.jdshipin:8880/TVOD/iptv.php?id=jxxw#.m3u8
+#EXTINF:-1 ,江西公共农业
+http://php.jdshipin:8880/TVOD/iptv.php?id=jxggny#.m3u8
+#EXTINF:-1 ,江西经济生活
+http://php.jdshipin:8880/TVOD/iptv.php?id=jxjjsh#.m3u8

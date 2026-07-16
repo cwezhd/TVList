@@ -7,3 +7,12 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1,凤凰中文
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+
+#EXTINF:-1,深圳娱乐频道
+http://183.11.239.36:808/hls/155/index.m3u8
+
+#EXTINF:-1,CCTV-1综合
+http://183.11.239.36:808/hls/19/index.m3u8
+
+#EXTINF:-1,CCTV-5体育
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8

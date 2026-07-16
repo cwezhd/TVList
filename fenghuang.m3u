@@ -1,63 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 ,凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 ,凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 ,凤凰中文2
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 ,凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 ,凤凰香港2
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1,凤凰资讯
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+http://cdn6.163189.xyz/163189/fhzx
 
-#EXTINF:-1 ,tvod翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 ,tvod翡翠台2
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 ,黄金翡翠 TVOD
-http://php.jdshipin:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 ,翡翠台4K TVOD
-http://php.jdshipin:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 ,tvod翡翠台北美版(TVB J1)
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1,Al-Jazeera-English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 ,TVB J2
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 ,tvodTVB Plus2
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 ,无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 ,星河 TVOD
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 ,美亚电影粤TVOD
-http://php.jdshipin:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1,深圳娱乐频道
+http://183.11.239.36:808/hls/155/index.m3u8
 
-#EXTINF:-1 ,tvodVIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 ,tvodVIUTV2
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 ,tvodHOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 ,HOY TV 2
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1,CCTV-1综合
+http://183.11.239.36:808/hls/19/index.m3u8
 
-#EXTINF:-1 ,广东珠江TVOD
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 ,广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 ,CHC动作电影
-http://php.jdshipin:8880/TVOD/iptv.php?id=chcdzdy
-#EXTINF:-1 ,CHC家庭影院
-http://php.jdshipin:8880/TVOD/iptv.php?id=chcjtyy
-#EXTINF:-1 ,重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1,CCTV-5体育
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 
-#EXTINF:-1 ,江西卫视
-http://php.jdshipin:8880/TVOD/iptv.php?id=jxds
-#EXTINF:-1 ,江西新闻
-http://php.jdshipin:8880/TVOD/iptv.php?id=jxxw
-#EXTINF:-1 ,江西公共农业
-http://php.jdshipin:8880/TVOD/iptv.php?id=jxggny
-#EXTINF:-1 ,江西经济生活
-http://php.jdshipin:8880/TVOD/iptv.php?id=jxjjsh
+#EXTINF:-1,BBC-Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1,Discovery
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8

@@ -30,3 +30,6 @@ https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,FenghuangMovie
 http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv
+
+#EXTINF:-1,CCTV-4
+http://204.12.242.162:82/live/cctv4.m3u8?jsbt=1784253139&jsbk=3e1ddd2e4438d4417aaae3ff62fc3405&from=zbdq6

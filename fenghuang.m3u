@@ -31,11 +31,11 @@ https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,FenghuangMovie
 http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv
 
-#EXTINF:-1,CCTV-4
-http://204.12.242.162:82/live/cctv4.m3u8?jsbt=1784253139&jsbk=3e1ddd2e4438d4417aaae3ff62fc3405&from=zbdq6
-
 #EXTINF:-1,CCTV-1
-http://192.187.123.50:82/live/cctv1.m3u8?jsbt=1784258692&jsbk=79270fe637c58581aaafcc28b44ca374&from=zbdq7
+http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203_dlna.m3u8
+
+#EXTINF:-1,CCTV-4
+http://204.12.242.162:82/live/cctv4.m3u8?jsbt=1784303747&jsbk=59661211212a00abc55f276c951c59a4&from=zbdq6
 
 #EXTINF:-1,CCTV-3
 http://198.204.234.58:82/live/cctv3.m3u8?jsbt=1784301267&jsbk=10b0dc3bb31ca1f5cef457703522d83d&from=zbdq4

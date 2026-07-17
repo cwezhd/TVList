@@ -33,3 +33,18 @@ http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv
 
 #EXTINF:-1,CCTV-4
 http://204.12.242.162:82/live/cctv4.m3u8?jsbt=1784253139&jsbk=3e1ddd2e4438d4417aaae3ff62fc3405&from=zbdq6
+
+#EXTINF:-1,CCTV-1
+http://192.187.123.50:82/live/cctv1.m3u8?jsbt=1784258692&jsbk=79270fe637c58581aaafcc28b44ca374&from=zbdq7
+
+#EXTINF:-1,CCTV-3
+http://198.204.234.58:82/live/cctv3.m3u8?jsbt=1784301267&jsbk=10b0dc3bb31ca1f5cef457703522d83d&from=zbdq4
+
+#EXTINF:-1,CCTV-13
+http://63.141.226.98:81/live/cctv13md.m3u8?tm=1784301154&key=9ed393a3039de9a99d60208a53eb57fb
+
+#EXTINF:-1,SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,NBCSports
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8

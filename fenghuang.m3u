@@ -21,3 +21,12 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1,Discovery
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,BBC-News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1,Adventure-earth
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,FenghuangMovie
+http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv

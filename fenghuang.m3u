@@ -34,14 +34,17 @@ http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv
 #EXTINF:-1,CCTV-1
 http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203_dlna.m3u8
 
-#EXTINF:-1,CCTV-4
-http://204.12.242.162:82/live/cctv4.m3u8?jsbt=1784303747&jsbk=59661211212a00abc55f276c951c59a4&from=zbdq6
-
 #EXTINF:-1,CCTV-3
-http://198.204.234.58:82/live/cctv3.m3u8?jsbt=1784301267&jsbk=10b0dc3bb31ca1f5cef457703522d83d&from=zbdq4
+http://198.204.228.26/live/cctv3hd.m3u8
+
+#EXTINF:-1,CCTV-4
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029797203_dlna.m3u8
 
 #EXTINF:-1,CCTV-13
-http://63.141.226.98:81/live/cctv13md.m3u8?tm=1784301154&key=9ed393a3039de9a99d60208a53eb57fb
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1,CCTV-4K
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029810303_dlna.m3u8
 
 #EXTINF:-1,SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
